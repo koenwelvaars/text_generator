@@ -8,4 +8,4 @@ Simply put in text and generate output using the GPT2 pre-trained DeepLearn mode
 
 The code (Python):
 
-- [Text generator](https://github.com/koenwelvaars/text_generator/blob/main/GPT2_TextGenerator.ipynb)
+- [Text generator](https://github.com/koenwelvaars/text_generator/blob/main/text_generator_GPT2.ipynb)
