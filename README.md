@@ -5,3 +5,7 @@ In this repo you can find code of one of my hobby projects. I was wondering if m
 
 Conclusion: it works pretty well and there is a lot of room to play around with the optional arguments to improve your output. 
 Simply put in text and generate output using the GPT2 pre-trained DeepLearn model. Have fun!
+
+The code (Python):
+
+- [Text generator](https://github.com/koenwelvaars/text_generator/blob/main/GPT2_TextGenerator.ipynb)
