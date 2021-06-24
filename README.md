@@ -1,4 +1,4 @@
-![alt text](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us#/media/File:Aybabtu.png)
+![alt text](https://upload.wikimedia.org/wikipedia/en/0/03/Aybabtu.png)
 
 # Generate text with GPT2 of OpenAI
 In this repo you can find code of one of my hobby projects. I was wondering if machine learning could do some work for me with writing text. Since I prefer 'lazy' programming and actually using DeepLearning techniques, I wanted to find out if DeepLearning could help me write some text which would appear to be written by a human instead of someout of the Borg in the Star Trek universe.
